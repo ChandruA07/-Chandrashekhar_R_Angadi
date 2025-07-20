@@ -41,5 +41,8 @@
 - 📧 chandruangadi07@gmail.com
 
 ---
+### Resume
+- [Resume](https://github.com/ChandruA07/Resume/blob/main/CHANDRASHEKHAR_RESUME.docx)
 
+---
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=footer)
