@@ -35,10 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Chandru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChandruA07&show_icons=true&theme=radical)
-
----
 
 ### 📬 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chandrashekhar-r-angadi-6028b2229/)
