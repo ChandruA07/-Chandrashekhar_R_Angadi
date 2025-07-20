@@ -1,7 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=200&section=header&text=Hi%20👋,%20I'm%20Chandrashekhar%20R%20Angadi&fontSize=35&fontColor=fff)
 
 ---
-<h1 align="center">Hi 👋, I'm Chandrashekhar R Angadi</h1>
 <h3 align="center">🚀 Electrical & Electronics Engineer | Embedded Systems | IoT | VLSI</h3>
 
 ---
@@ -42,7 +41,7 @@
 ---
 
 ### 📬 Connect with Me
-- 🔗 [LinkedIn](https://linkedin.com/in/chandruangadi)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chandrashekhar-r-angadi-6028b2229/)
 - 📧 chandruangadi07@gmail.com
 
 ---
